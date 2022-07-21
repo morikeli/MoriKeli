@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MoriKeli
 - 👀 I’m interested in Python and Web Development, A.I. & Machine Learning.
-- 🌱 I’m currently learning JavaScript & django
-- 📫 How to reach me Twitter: @keli_mori
+- 🌱 I’m currently learning JavaScript & django restframework
+- 📫 How to reach me Twitter: @keli_mori, Instagram: @morikeli_22
 - 😀 Fun fact: I'm an artist...
