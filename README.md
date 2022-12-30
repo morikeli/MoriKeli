@@ -6,4 +6,4 @@
 
 
 
-![My Skills](https://skillicons.dev/icons?i=html, css, bootstrap, javascript, py, django flutter, vscode, git, postman)
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,py,django,flutter,vscode,git,postman)
