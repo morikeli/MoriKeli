@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MoriKeli
 - 👀 I’m interested in Python, Web Development, A.I. & Machine Learning.
 - 🌱 I’m currently learning Firebase & Flutter 
+- ☁️ Ask me anything about Python, Django, DjangoRestFramework
 - 📫 How to reach me: Twitter https://twitter.com/keli_mori or Instagram: @morikeli_22
 - 😀 Fun fact: I'm an artist...
 
