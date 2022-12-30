@@ -6,11 +6,11 @@
 
 
 ## Tech stack
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,python,django,flutter,mysql,sqlite,postgresql,firebase)
 
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,py,django,flutter,mysql,sqlite,postgresql,firebase,tensorflow)
 
 ### Tools
-![My Skills](https://skillicons.dev/icons?i=vscode,git,github,linux,heroku,parrot-linux)
+![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,git,github,linux,heroku,postmanapi)
 
 
 ## My GitHub Statistics
