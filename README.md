@@ -7,7 +7,7 @@ Python | Full stack web developer
 I learnt how to code after joining university to study Computer Science. I started with HTML, but recently I found a passion for back-end web development with Django and mobile app development using Flutter.
 
 *   🌍  I'm based in Nairobi, Kenya
-*   🧠  I'm learning Flutter
+*   🧠  I'm currently learning Flutter
 *   🤝  I'm open to collaborating on interesting projects (Django, django-rest-framework APIs, Flutter)
 *   ⚡  When I don't code I draw or hike
 *   🖥️  See my portfolio at [Mori Keli's portfolio](https://morikeli.pythonanywhere.com/portfolio/index/)
