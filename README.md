@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python | Full stack web developer
 -----------------------------------------------------
 
-I learnt how to code after joining university to study Computer Science. I started with HTML, but recently I found a passion for back-end web development with Django and mobile app development using Flutter.
+I learnt how to code after joining university to study Computer Science. I started with HTML, but recently I found a passion for back-end web development with django, API development using django REST framework (DRF) and mobile app development using Flutter.
 
 *   🌍  I'm based in Nairobi, Kenya
 *   🧠  I'm currently learning Flutter
