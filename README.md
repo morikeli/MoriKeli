@@ -10,7 +10,7 @@ I learnt how to code after joining university to study Computer Science. I start
 *   🧠  I'm currently learning Flutter
 *   🤝  I'm open to collaborating on interesting projects (Django, django-rest-framework APIs, Flutter)
 *   ⚡  When I don't code I draw or hike
-*   🖥️  See my portfolio at ![Mori Keli's portfolio](https://morikeli.pythonanywhere.com)
+*   🖥️  See my portfolio at [Mori Keli's portfolio](https://morikeli.pythonanywhere.com)
 
 ### Skills 
 <p align="left">
