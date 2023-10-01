@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mori Keli
 =================================================================================================================================
 
-Python | Fullstack web developer | Flutter
+Python | Full-stack web developer | Flutter
 -----------------------------------------------------
 
-I learnt how to code after joining university to study Computer Science. I started with HTML, but recently I found a passion for backend web development with django, API development using django REST framework (DRF) and mobile app development using Flutter.
+I learnt how to code after joining university to study Computer Science. I started with HTML, but recently I found a passion for backend web development with django, REST API development using django REST framework (DRF) and mobile app development using Flutter.
 
 *   🌍  I'm based in Nairobi, Kenya
 *   🧠  I'm currently learning Flutter
-*   🤝  I'm open to collaborating on interesting projects (Django, django-rest-framework APIs, Flutter)
+*   🤝  I'm open to collaborating on interesting projects (Django, django REST APIs, Flutter)
 *   ⚡  When I don't code I draw or hike
 *   🖥️  See my portfolio at [Mori Keli's portfolio](https://morikeli.pythonanywhere.com)
 
