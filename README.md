@@ -20,7 +20,6 @@ I learnt how to code after joining university to study Computer Science. I start
 ### Tools
 ![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,git,github,linux,vercel)
 
-
 ### Socials
                   
 <p align="left"> <a href="https://www.github.com/MoriKeli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mori-keli-9884a6246/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/MoriKeli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
@@ -28,10 +27,10 @@ I learnt how to code after joining university to study Computer Science. I start
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/MoriKeli"><img src="https://github-readme-stats.vercel.app/api?username=MoriKeli&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MoriKeli's GitHub stats" /></a>
-
-<a href="http://www.github.com/MoriKeli"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MoriKeli&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=morikeli&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MoriKeli's GitHub stats" /> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=morikeli&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</p>
+<br /><br /><br />
 
 ### Most used programming languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoriKeli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morikeli&layout=compact&https://github.com/morikeli/github-readme-stats" alt="MoriKeli's most used programming languages" />
