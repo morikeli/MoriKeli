@@ -9,7 +9,7 @@ I learnt how to code after joining university to study Computer Science. I start
 *   🌍  I'm based in Nairobi, Kenya
 *   🧠  I'm currently learning Flutter
 *   🤝  I'm open to collaborating on interesting projects (Django, django REST APIs, Flutter)
-*   ⚡  When I don't code I draw or hike
+*   ⚡  When I don't code I draw, hike or play chess ♟️
 *   🖥️  See my portfolio at [Mori Keli's portfolio](https://morikeli.pythonanywhere.com)
 
 ### Skills 
