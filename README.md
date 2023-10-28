@@ -1,12 +1,11 @@
-
 <p align=center>
   <img src="https://github.com/morikeli/MoriKeli/assets/78599959/402f7f3f-8be3-4e7a-80f1-7dac1c749698">
 <p>
 
 <h1 align="center">
-Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Mori Keli
+  Hello! ![hand-waving](https://github.com/morikeli/MoriKeli/assets/78599959/9cfc8262-6407-4cd8-8c38-25dc365e0f27) My name is Mori Keli
 </h1>
-<h3 align="center">Python | Full-stack web developer | Flutter developer</h3>
+<h3 align="center">Python developer | Full-stack web developer | Flutter developer</h3>
 
 I learnt how to code after joining university to study Computer Science. I started with HTML, but recently I found a passion for backend web development with django, REST API development using django REST framework (DRF) and mobile app development using Flutter.
 
