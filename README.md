@@ -3,7 +3,7 @@
 <p>
 
 <h1 align="center">
-  Hello! ![hand-waving](https://github.com/morikeli/MoriKeli/assets/78599959/9cfc8262-6407-4cd8-8c38-25dc365e0f27) My name is Mori Keli
+  Hello! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Mori Keli
 </h1>
 <h3 align="center">Python developer | Full-stack web developer | Flutter developer</h3>
 
@@ -11,7 +11,7 @@ I learnt how to code after joining university to study Computer Science. I start
 
 *   🌍  I'm based in Nairobi, Kenya
 *   🧠  I'm currently learning Flutter
-*   🤝  I'm open to collaborating on interesting projects (Django, django REST APIs, Flutter)
+*   🤝  I'm open to collaborating on interesting projects (Django, REST APIs with Django REST Framework (DRF), Flutter)
 *   ⚡  Hobbies: drawing, hiking, reading or playing chess ♟️
 *   🖥️  See my portfolio at [Mori Keli's portfolio](https://morikeli.pythonanywhere.com)
 
