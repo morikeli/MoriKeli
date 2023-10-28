@@ -6,10 +6,8 @@
 <h1 align="center">
 Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Mori Keli
 </h1>
-===========================================================================================================
-
 <h3 align="center">Python | Full-stack web developer | Flutter</h3>
-------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 I learnt how to code after joining university to study Computer Science. I started with HTML, but recently I found a passion for backend web development with django, REST API development using django REST framework (DRF) and mobile app development using Flutter.
 
