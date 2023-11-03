@@ -7,13 +7,13 @@
 </h1>
 <h3 align="center">Python developer | Full-stack web developer | Flutter developer</h3>
 
-I learnt how to code after joining university to study Computer Science. I started with HTML, but recently I found a passion for backend web development with django, REST API development using django REST framework (DRF) and mobile app development using Flutter.
+I learnt how to code after joining university to study Computer Science. I started with Python, HTML, CSS and vanilla JS, but recently I found a passion for backend web development with django, REST API development using django REST framework (DRF) and mobile app development using Flutter.
 
 *   🌍  I'm based in Nairobi, Kenya
 *   🧠  I'm currently learning Flutter
 *   🤝  I'm open to collaborating on interesting projects (Django, REST APIs with Django REST Framework (DRF), Flutter)
 *   ⚡  Hobbies: drawing, hiking, reading or playing chess ♟️
-*   🖥️  See my portfolio at [Mori Keli's portfolio](https://morikeli.pythonanywhere.com)
+*   🖥️  See my portfolio at [Mori Keli's portfolio](https://morikeli.onrender.com)
 
 ### Skills 
 <p align="left">
