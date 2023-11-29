@@ -7,7 +7,7 @@
 </h1>
 <h3 align="center">Python developer | Full-stack web developer | Flutter developer</h3>
 
-I learnt how to code after joining university to study Computer Science. I started with Python, HTML, CSS and vanilla JS, but recently I found a passion for backend web development with django, REST API development using django REST framework (DRF) and mobile app development using Flutter.
+I learnt how to code after joining university to study Computer Science. I started with Python, HTML, CSS and vanilla JS, but recently I found a passion for backend web development with django, REST API development using django REST framework (DRF) and fastAPI, machine learning with Python's library - scikit-learn and mobile app development using Flutter.
 
 *   🌍  I'm based in Nairobi, Kenya
 *   🧠  I'm currently learning Flutter
