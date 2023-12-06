@@ -39,3 +39,7 @@ I learnt how to code after joining university to study Computer Science. I start
 
 ### Most used programming languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morikeli&layout=compact)](https://github.com/morikeli/github-readme-stats)
+
+
+### Support Me
+<a href="https://www.buymeacoffee.com/keli.io"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
