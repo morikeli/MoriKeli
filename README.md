@@ -10,8 +10,8 @@
 I learnt how to code after joining university to study Computer Science. I started with Python, HTML, CSS and vanilla JS, but recently I found a passion for backend web development with django, REST API development using django REST framework (DRF) and fastAPI, machine learning with Python's library - scikit-learn and mobile app development using Flutter.
 
 *   🌍  I'm based in Nairobi, Kenya
-*   🧠  I'm currently learning Flutter
-*   🤝  I'm open to collaborating on interesting projects (Django, REST APIs with Django REST Framework (DRF), Flutter)
+*   🧠  I'm currently learning Scikit-learn and HTMX
+*   🤝  I'm open to collaborating on interesting projects (Django, REST APIs with Django REST Framework (DRF))
 *   ⚡  Hobbies: drawing, hiking, reading or playing chess ♟️
 *   🖥️  See my portfolio at [Mori Keli's portfolio](https://morikeli.onrender.com)
 
