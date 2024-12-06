@@ -7,9 +7,9 @@
 </h1>
 <h3 align="center">Python developer | Full-stack web developer | Flutter developer</h3>
 
-Once upon a time, when Snake on a Nokia was the ultimate mobile game, I joined university to study Computer Science. Little did I know, I was signing up for a lifelong relationship with code (and occasional all-nighters).
+Once upon a time, *when Snake on a Nokia was the ultimate mobile game*, I joined university to study Computer Science. Little did I know, I was signing up for a lifelong relationship with code ―― one that comes with occasional all-nighters, endless debugging, impostor syndrome, burnouts, and that one semicolon that ruins your day. 😂
 
-I dabbled with Python, HTML, CSS, and vanilla JS (not the ice cream), and before I knew it, I was hooked. Fast forward a few projects later, and backend and mobile app development stole my heart (thanks, Django, FastAPI, and Flutter!).
+I dabbled with Python, HTML, CSS, and vanilla JS (not the ice cream), and before I knew it, I was hooked. Fast forward a few projects later, backend and mobile app development stole my heart (thanks, Django, FastAPI, and beloved Flutter!).
 
 When I'm not debugging like Sherlock, you’ll find me flirting with ML as I train models with Scikit-learn or building apps in Flutter that are surprisingly functional. Based in Nairobi, Kenya, I bring a little code, a focus, results, and a pinch of humor to every project.
 
