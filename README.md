@@ -7,9 +7,14 @@
 </h1>
 <h3 align="center">Python developer | Full-stack web developer | Flutter developer</h3>
 
-I learnt how to code after joining university to study Computer Science. I started with Python, HTML, CSS and vanilla JS, but recently I found a passion for backend web development with django, REST API development using django REST framework (DRF) and FastAPI, machine learning with Python's library - Scikit-learn and mobile app development using Flutter.
+Once upon a time, when Snake on a Nokia was the ultimate mobile game, I joined university to study Computer Science. Little did I know, I was signing up for a lifelong relationship with code (and occasional all-nighters).
 
-*   🌍  I'm based in Nairobi, Kenya
+I dabbled with Python, HTML, CSS, and vanilla JS (not the ice cream), and before I knew it, I was hooked. Fast forward a few projects later, and backend and mobile app development stole my heart (thanks, Django, FastAPI, and Flutter!).
+
+When I'm not debugging like Sherlock, you’ll find me flirting with ML as I train models with Scikit-learn or building apps in Flutter that are surprisingly functional. Based in Nairobi, Kenya, I bring a little code, a focus, results, and a pinch of humor to every project.
+
+
+*   🌍  I'm based in Nairobi, Kenya - home of great tea, epic sunsets, beautiful sceneries, the big 5, and great athletes 🏃🏽🏃🏽‍♀️
 *   🧠  I'm currently learning machine learning using Python's library Scikit-learn and mobile app development (android & iOS) using Flutter
 *   🤝  I'm open to collaborating on interesting projects (Django, REST APIs with Django REST Framework (DRF))
 *   ⚡  Hobbies: drawing, hiking, reading or playing chess ♟️
