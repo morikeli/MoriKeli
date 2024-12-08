@@ -16,7 +16,7 @@ When I'm not debugging like Sherlock, you’ll find me flirting with ML as I tra
 
 *   🌍  I'm based in Nairobi, Kenya - home of great tea, epic sunsets, beautiful sceneries, the big 5, and great athletes 🏃🏽🏃🏽‍♀️
 *   🧠  I'm currently learning machine learning using Python's library Scikit-learn and mobile app development (android & iOS) using Flutter
-*   🤝  I'm open to collaborating on interesting projects (Django, REST APIs with Django REST Framework (DRF))
+*   🤝  I'm open to collaborating on interesting projects (Django, Django REST, FastAPI and Flutter)
 *   ⚡  Hobbies: drawing, hiking, reading or playing chess ♟️
 *   🖥️  See my portfolio at [Mori Keli's portfolio](https://morikeli.onrender.com)
 
