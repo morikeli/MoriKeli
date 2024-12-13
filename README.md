@@ -1,6 +1,4 @@
-<p align=center>
-  <img src="https://github.com/morikeli/MoriKeli/assets/78599959/402f7f3f-8be3-4e7a-80f1-7dac1c749698">
-<p>
+![d13556ec053cffc2410a682ee33436d6](https://github.com/user-attachments/assets/2b95e89a-f25d-44f2-8629-fe21f7b67207)
 
 <h1 align="center">
   Hello! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Mori Keli
