@@ -58,4 +58,4 @@ When I'm not debugging like Sherlock, you’ll find me flirting with ML as I tra
 <a href="https://www.buymeacoffee.com/keli.io"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 
 ### Thank you
-Thank you for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions.
+Thank you for visiting my profile! Feel free to explore my repositories and show some ♥️ by hitting the star ⭐ button on my repositories. You can reach out if you'd like to collaborate or have any questions.
