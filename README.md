@@ -34,10 +34,11 @@ When I'm not debugging like Sherlock, you’ll find me flirting with ML as I tra
 | Containers, CI & CD | <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a> <img src="https://skillicons.dev/icons?i=githubactions" height="36" /> | Docker, GitHub actions |
 | Machine learning | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="48" width="48" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" height="68" width="68" /> <img src="https://skillicons.dev/icons?i=opencv" height="48" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="48" width="48" /> <img src="https://skillicons.dev/icons?i=sklearn" height="48" /> | Jupyter Notebook, Numpy, OpenCV, Pandas, Scikit-learn |
 | Amateur | <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a> | C, C++ |
+| Coding | <a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim-colored.svg" width="36" height="36" alt="Neovim" title="Neovim"/></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" width="36" height="36" alt="Vim" title="Vim"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a> | Neovim, Vim, VS Code |
 
 
 ### Tools
-![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,github,linux,ubuntu)
+![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,github,linux,ubuntu,neovim,vim,)
 
 ### Socials
                   
