@@ -64,5 +64,6 @@ Feel free to explore my repositories and show some love by hitting the star ⭐ 
 
 You can reach out if you'd like to collaborate or have any questions.
 
+[![wakatime](https://wakatime.com/badge/user/55b10e2d-ed58-45ec-b7c1-98c9b72d774b.svg)](https://wakatime.com/@55b10e2d-ed58-45ec-b7c1-98c9b72d774b)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmorikeli%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitor-count&edge_flat=false)](https://hits.seeyoufarm.com)
