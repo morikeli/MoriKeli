@@ -19,7 +19,7 @@ When I'm not debugging like Sherlock, you’ll find me flirting with ML as I tra
 *   🧠  I'm currently learning machine learning using Python's library Scikit-learn and mobile app development (android & iOS) using Flutter
 *   🤝  I'm open to collaborating on interesting projects (Django, Django REST, FastAPI and Flutter)
 *   ⚡  Hobbies: drawing, hiking, reading or playing chess ♟️
-*   🖥️  See my portfolio at [Mori Keli's portfolio](https://morikeli.onrender.com)
+*   🖥️  You view various projects I've worked on in my [portfolio](https://morikeli-portfolio.vercel.app/)
 
 ### Skills 
 | Skills | Tech stack | Info |
