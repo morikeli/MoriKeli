@@ -1,11 +1,9 @@
-![d13556ec053cffc2410a682ee33436d6](https://github.com/user-attachments/assets/2b95e89a-f25d-44f2-8629-fe21f7b67207)
-
 <h1 align="center">
   Hello! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Mori Keli
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Python+developer;Fullstack+web+developer;Mobile+app+developer+-+Flutter;AI+and+machine+learning+enthusiast;Oh%2C+I+play+chess+too!+%F0%9F%98%84" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=550&lines=First+and+foremost,+I+would+like+to+say;You+already+know+my+name;I+know+you're+here+to+stalk+me;I+am+a;Python+developer;Fullstack+web+developer;Mobile+(Flutter)+developer;Django+FastAPI+Docker+is+my+main+stack;Oh%2C+I+play+chess+too!+%F0%9F%98%84" alt="Typing SVG" /></a>
 </p>
 
 Once upon a time, *when Snake on a Nokia was the ultimate mobile game*, I joined university to study Computer Science. Little did I know, I was signing up for a lifelong relationship with code ―― one that comes with occasional all-nighters, endless debugging, impostor syndrome, burnouts, and that one semicolon that ruins your day. 😂
@@ -54,6 +52,7 @@ When I'm not debugging like Sherlock, you’ll find me flirting with ML as I tra
 ### Most used programming languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morikeli&layout=compact)](https://github.com/morikeli/github-readme-stats)
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@magnus_prime/2c8247b3-15b1-46bc-8ce8-936045d6e6b8.png" /></a>
 
 ### Support Me
 <a href="https://www.buymeacoffee.com/keli.io"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
