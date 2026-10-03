@@ -34,7 +34,7 @@ When I'm not debugging like Sherlock, you’ll find me flirting with ML as I tra
 
 
 ### Tools
-![Skill Icons](https://skills.syvixor.com/api/icons?i=androidstudio,github,githubcopilot,chatgpt,googlegemini,linux,ubuntu,postman&perline=12&radius=40)
+![Skill Icons](https://skills.syvixor.com/api/icons?i=androidstudio,curl,dbeaver,githubcopilot,chatgpt,googlegemini,linux,ubuntu,astraluv,postman,wakatime&perline=12&radius=40)
 
 ### Socials
                   
